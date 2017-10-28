@@ -1,0 +1,160 @@
+
+
+Cylinder 
+    d=3.62
+    l= 5.85+1.25=7.10
+
+        (3.86 black part only)
+
+
+Cuboids at every 90 deg at:
+    From wheel end=4.34 
+    From other end=2.76 (1.46)
+               sum=7.10
+    l=1.30
+    w=1.12
+    dia=4.00
+
+
+
+Cuboid
+    st=0.72 from cyl end.
+    l=0.77
+    w=0.82  1.34 with movement
+    h=1.47
+
+
+Blended Cylenders;
+    From other end=2.76 (1.71)
+    d=0.60
+    l=1.05
+    dia of centres:3.90 (1.95)
+
+Blended Cylenders (small);
+    start=0.07
+    d=(2x0.14)+0.20=0.48
+    l=0.46 (or add 0.07=0.53)
+
+Pipes
+    d=0.20
+    l=5.54 (incl. head)
+
+
+Pipe Heads
+    d=0.48
+    l=0.30
+
+
+cover
+    st=0.06 of edge of cyl
+    st=1.00 from center of cyl.
+    st=1.70+1.00+3.62/2=4.51
+     - Verified this looks right.
+    w=2.63
+    d=1.70
+    l= 7.10-0.18=6.92
+--------------------------------------------------   
+Gear Box:
+
+l=4.68
+ go up:  0.60
+ go out: 0.08
+ cont. up cyl dia (3.62)
+ go in: 0.08
+ cont. 5.48-(3.62+0.60)=1.26
+ across back 2.00
+ From other side of l go up 3.92
+
+Adding arcs with dia guess of 1.00
+
+depth=2.26
+--------------------------------------------------   
+Base Plate:
+l=4.68 w=2.98 h=0.20
+
+End Boxes:
+l=1.28 w=2.98 h=1.08
+
+Middle Box:
+l=0.62 w=2.98 h=1.08
+
+Top Box:
+l=0.90 w=2.98 h=0.62  starting 3.60 off bottom above base plate.
+
+
+Little Cylinder :
+h=3.14 d=1.73 Pos: 1.54 from vertical edge, 3.90 from bottom of base plate.
+ - Top is 4.76 above bottom of base plate. Centre is about 3.90 above bottome of base plate.
+ - Other edge is 4.00 from far edge so from edge it is: (4.68-4.00)+1.73/2 = 0.68+0.865=1.54 which looks right!
+ - (3.14-2.98)/2=0.08
+
+--------------------------------------------------   
+Black Screw Heads:
+
+Dia=0.50 (inches) h=0.31 
+starting 0.96 from long edge
+    1.21 = 0.96+0.50/2=1.21
+starting 0.32 from short edge
+    0.32+0.50/2=0.57
+--------------------------------------------------
+
+
+Large cylinder
+d=2.62 l=3.62 (2*1.81)
+pos:
+    edges to cylindar edge: 3.32 and 3.52
+    From bottom of plate to centre=3.52-2.62/2=2.21
+    From closest edge to centre=3.32-2.62/2=2.01
+
+
+3 little cylinders at 120deg around large one:
+d=0.60 l=3.24=2*1.62
+
+width of large cyl with one small combined = 3.34
+small cyl center dist from centre of large cyl = 3.34-(1.31+.30)=1.73
+
+Tangent=0.50 (r=0.25)
+----------------------------------------------------------------------
+Axel:
+d=1.14 l=0.40
+
+----------------------------------------------------------------------
+Wheel Attachment
+l=0.54 d=1.74=2*0.87
+
+Then expands to about d=2.60 with l=1.14
+ - This is not possible to measure exactly but could be calculated?
+--------------------
+5 Nut cicles:
+centre to centre dist=1.54 d=0.86  (.43 -> .55? for subtraction underneath)
+ inner hole cut d inner hole cut d==0.30
+
+Cutaway larger gap cicles:
+centre to centre dist=1.92
+centre to inner circle edge = 1.20
+d=2*1.92-1.20=2*0.72=1.44
+
+0.24 thick
+
+1.20
+
+--------------------------------------
+
+Bolts:
+Screw head guess d=0.56 l=0,40-0.24=0.16
+Screw d=0.28 l=0.92
+(Inner hole d=0.30)
+
+Head bolt flat dia=0.50 l=0.80
+
+Bolt starts at 1.28-0.80-0.40=0.08
+
+
+
+
+
+========================================
+
+use array
+========================================
+
