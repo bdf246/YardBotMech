@@ -46,6 +46,7 @@ Pipe Heads
 
 
 cover
+    st=0.06 of edge of cyl
     st=1.00 from center of cyl.
     st=1.70+1.00+3.62/2=4.51
      - Verified this looks right.
