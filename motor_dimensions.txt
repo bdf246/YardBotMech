@@ -114,6 +114,43 @@ width of large cyl with one small combined = 3.34
 small cyl center dist from centre of large cyl = 3.34-(1.31+.30)=1.73
 
 Tangent=0.50 (r=0.25)
+----------------------------------------------------------------------
+Axel:
+d=1.14 l=0.40
+
+----------------------------------------------------------------------
+Wheel Attachment
+l=0.54 d=1.74=2*0.87
+
+Then expands to about d=2.60 with l=1.14
+ - This is not possible to measure exactly but could be calculated?
+--------------------
+5 Nut cicles:
+centre to centre dist=1.54 d=0.86  (.43 -> .55? for subtraction underneath)
+ inner hole cut d inner hole cut d==0.30
+
+Cutaway larger gap cicles:
+centre to centre dist=1.92
+centre to inner circle edge = 1.20
+d=2*1.92-1.20=2*0.72=1.44
+
+0.24 thick
+
+1.20
+
+--------------------------------------
+
+Bolts:
+Screw head guess d=0.56 l=0,40-0.24=0.16
+Screw d=0.28 l=0.92
+(Inner hole d=0.30)
+
+Head bolt flat dia=0.50 l=0.80
+
+Bolt starts at 1.28-0.80-0.40=0.08
+
+
+
 
 
 ========================================
